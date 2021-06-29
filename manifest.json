@@ -2338,9 +2338,6 @@
     ".github/workflows/sync-manifest.yaml": {
       "checksum": "e6150505d49d4f0883069f6d2a35d57b"
     },
-    ".Rprofile": {
-      "checksum": "5a09712dd7995902c15115941ddb8b08"
-    },
     "README.md": {
       "checksum": "ebf5641578b58b329f88eee22c832b17"
     },
